@@ -14,3 +14,4 @@ final Map<String, WidgetBuilder> appRoutes = {
   'loading': (_) => LoadingPage(),
   
 };
+ 
